@@ -5,6 +5,6 @@ The company wants to develop a website that allows users to find accommodation a
 Double click on index.html
 
 **Authors** <br/>
-OpenClassrooms | UI/UX
+OpenClassrooms | UI/UX <br/>
 Mady Kramer | Codebase
 
